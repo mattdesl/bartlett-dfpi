@@ -41,3 +41,11 @@ Today we learn:
 Taking Sol LeWitt's instructions from Wall Drawing #130 (1972) and recreating the artwork with JavaScript.
 
 Instructions: *Grid and arcs from four corners.*
+
+## Appendix
+
+Some other things mentioned.
+
+- Ryoji Ikeda, Transfinite (2011)
+- Josef Albers, "Homage to the Square" (1964)
+- Studio Wayne McGregor
