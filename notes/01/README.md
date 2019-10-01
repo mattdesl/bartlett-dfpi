@@ -23,10 +23,9 @@ Today we learn:
 ## Tools
 
 - [Chrome](https://www.google.com/chrome/) (preferred) or [FireFox](https://www.mozilla.org/en-GB/firefox/new/) Browser
-- [VSCode](https://code.visualstudio.com/)
-- Terminal on macOS or [cmder](https://cmder.net/) for PC
-- [Node.js + npm](https://nodejs.org/en/)
-- [canvas-sketch](https://github.com/mattdesl/canvas-sketch)
+- [Glitch.com](https://glitch.com/)
+- [p5-demos.glitch.me](https://p5-demos.glitch.me)
+
 
 ## Concepts
 
