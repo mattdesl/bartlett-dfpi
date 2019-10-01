@@ -26,10 +26,9 @@ Today we learn:
 - [Glitch.com](https://glitch.com/)
 - [p5-demos.glitch.me](https://p5-demos.glitch.me)
 
-
 ## Concepts
 
-- Development environment (Node, npm, `canvas-sketch`, browser)
+- Development environment (Glitch.com)
 - Basic shapes (rectangles, circles, triangles, squares, lines)
 - Syntax: variables, functions, for loops
 - Colors: hex codes, RGB strings, HSL
