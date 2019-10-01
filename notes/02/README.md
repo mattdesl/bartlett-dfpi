@@ -27,6 +27,7 @@ Today we learn:
 - [Leslie Roberts](https://leslierobertsart.com/section/281957.html)
 - [99% Invisible – Froebel’s Gifts](https://99percentinvisible.org/episode/froebels-gifts/), [Photo Credit: Negatives of the Bauhaus](https://99percentinvisible.org/episode/photo-credit-negatives-bauhaus/), [Muriel Cooper](https://99percentinvisible.org/article/muriel-cooper-designing-bridge-bauhaus-digital-age/)
 - [Your Line or Mine](https://studiomoniker.com/projects/your-line-or-mine)
+- [The Coding Train](https://thecodingtrain.com) by Daniel Shiffman
 
 ## Schedule
 
