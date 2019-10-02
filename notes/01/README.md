@@ -1,5 +1,7 @@
 # Day 01
 
+## Contents
+
 Today we learn:
 
 - What is creative coding?
@@ -7,6 +9,14 @@ Today we learn:
 - What are some artists and examples in this space? (See references below)
 - What tools do we need? (See tools below)
 - The very basics of drawing shapes with code, algorithms, randomness, etc.
+
+## Slides
+
+[Link to slides PDF](https://drive.google.com/file/d/1dngSJmTJGrbmDT842IEEIZACJOARHGwX/view?usp=sharing)
+
+## Demos
+
+- [p5-demos.glitch.me](http://p5-demos.glitch.me/)
 
 ## References
 
@@ -24,7 +34,6 @@ Today we learn:
 
 - [Chrome](https://www.google.com/chrome/) (preferred) or [FireFox](https://www.mozilla.org/en-GB/firefox/new/) Browser
 - [Glitch.com](https://glitch.com/)
-- [p5-demos.glitch.me](https://p5-demos.glitch.me)
 
 ## Concepts
 

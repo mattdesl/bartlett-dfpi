@@ -15,6 +15,10 @@ Today we learn:
 - Extra: Robert Penner's Easing Equations
 - Extra: Noise Functions
 
+## Slides
+
+[Link to slides PDF](https://drive.google.com/file/d/1CSzTY26-TImm2eNcgzaG3pDF965ccm2q/view?usp=sharing)
+
 ## Demos
 
 - [dfpi-demos.glitch.me](http://dfpi-demos.glitch.me/)
