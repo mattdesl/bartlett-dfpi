@@ -1,4 +1,4 @@
-# Day 02
+# Week 1 — Day 2 (Motion & Interaction)
 
 Today we learn:
 

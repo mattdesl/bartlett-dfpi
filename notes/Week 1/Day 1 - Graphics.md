@@ -1,4 +1,4 @@
-# Day 01
+# Week 1 — Day 1 (Graphics)
 
 ## Contents
 
