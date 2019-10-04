@@ -37,21 +37,21 @@ Then we will learn:
   - [supervillains](https://www.npmjs.com/package/supervillains) and [superheroes](https://www.npmjs.com/package/superheroes)
   - [nice-color-palettes](https://www.npmjs.com/package/nice-color-palettes)
 - Data Artworks
-  - Refik Anadol
-  - WiFi Impressionist
-  - [Hertzian Landscapes](https://www.creativeapplications.net/js/hertzian-landscapes-the-interactive-space-of-a-radio-spectrum/) by Richard Vijgen
+  - [Melting Memories](https://vimeo.com/264369157) and [Wind of Boston](https://visuall.net/2017/03/22/wind-of-boston-series-of-data-paintings-by-refik-anadol-studio/) by Refik Anadol
+  - [WiFi Impressionist](https://www.creativeapplications.net/environment/wifi-impressionist-city-as-an-electromagnetic-landscape/) and [Hertzian Landscapes](https://www.creativeapplications.net/js/hertzian-landscapes-the-interactive-space-of-a-radio-spectrum/) by Richard Vijgen
+  - [Every NYT Front Page Since 1852](https://www.thisiscolossal.com/2017/02/the-rise-of-the-image-every-ny-times-front-page-since-1852-in-under-a-minute/)
   - NORAA
-  - Sleep Blanket
-- Data Ideas
+  - [The Sleep Blanket](https://www.thisiscolossal.com/2019/07/baby-data-blanket/)
+  - [Georgia Lupi](http://giorgialupi.com/)
+  - [Stefanie Posavec](http://www.stefanieposavec.com/)
+- Some Dataset Ideas
   - [Corpora](https://github.com/dariusk/corpora)
   - [Library of Congress](https://www.loc.gov/pictures/)
   - [NYPL Digital Collections](https://digitalcollections.nypl.org)
 
 ## Assignment
 
-## Assignment
-
-The assignment will be one of the following:
+Start to think about your project. The assignment will be one of the following, and will be officially "assigned" tomorrow evening:
 
 - Generative Artwork
   - For example, using P5.js to create a series of images or a looping animation.
@@ -65,4 +65,3 @@ The assignment will be one of the following:
   - Alternatively, this can run entirely on a server, such as a Twitter bot running on Glitch.com or Heroku.
 
 Projects are either solo, or in a group of max 2 people. For Connected Artwork projects it may make sense to work in a team to split effort between frontend (visuals) and backend (networking).
-

@@ -5,24 +5,19 @@ Now that we are more comfortable with Terminal, Node.js, npm, and working with J
 We will learn about:
 
 - Programmable Web APIs
-- Glitch.com Server Example
+- Glitch.com Server Examples
   - "Hello World" Node.js app
   - Fetching Files Node.js app
+  - WebSocket Demo (Unidirectional)
+  - Websocket Demo (Bidirectional)
 - "Isometric" JavaScript
   - Fetching Web APIs in the Browser
-  - Reading `cross-fetch`
+  - Fetching Web APIs in Node.js with `cross-fetch`
 - WebSockets for bi-directional communication
-
-## Slides
-
-
-
-## Guides
 
 ## References
 
 - Julian Oliver, HARVEST
-- 
 
 ## Assignment
 
@@ -40,5 +35,3 @@ The assignment will be one of the following:
   - Alternatively, this can run entirely on a server, such as a Twitter bot running on Glitch.com or Heroku.
 
 Projects are either solo, or in a group of max 2 people. For Connected Artwork projects it may make sense to work in a team to split effort between frontend (visuals) and backend (networking).
-
-At the end of class we will have time
