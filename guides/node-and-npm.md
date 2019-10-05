@@ -13,6 +13,7 @@
 - [Installing Modules from npm](#installing-modules-from-npm)
 - [Installing Applications from npm](#installing-applications-from-npm)
 - [Troubleshooting `EACCESS` Errors](#eaccess)
+- [Code Snippets](#code-snippets)
 
 ## Installation
 
@@ -301,3 +302,7 @@ Now try re-installing your CLI app globally from npm:
 ```sh
 npm install http-server --global
 ```
+
+## Code Snippets
+
+For small examples you can copy + paste, see [./node-snippets.md](./node-snippets.md).

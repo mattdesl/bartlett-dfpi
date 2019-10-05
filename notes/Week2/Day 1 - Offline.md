@@ -31,23 +31,36 @@ Then we will learn:
 
 - Tools
   - [http-server](https://www.npmjs.com/package/http-server)
-- npm datasets
+- Data Artworks
+  - [Simulated Dendrochronology of U.S. Immigration](https://web.northeastern.edu/naturalizing-immigration-dataviz/) by National Geographic, Northeastern University
+  - [Block Bills](http://www.digital-projects-index.julien-drochon.net/portfolio/block-bills/) by Matthias Dorfelt
+  - [Every NYT Front Page Since 1852](https://vimeo.com/204951759)
+  - [Tōhoku Japanese Earthquake Sculpture](https://www.lukejerram.com/tohoku-japanese-earthquake/) by Luke Jerram
+  - [The Sleep Blanket](https://www.theverge.com/2019/7/21/20699484/sleep-blanket-data-visualisation-seung-lee) by Seung Lee
+  - [Coral Cities](https://www.archdaily.com/908260/coral-cities-the-worlds-most-liveable-cities-visualized) by Craig Taylor
+  - [Melting Memories](http://refikanadol.com/works/melting-memories/) and [Wind of Boston](https://visuall.net/2017/03/22/wind-of-boston-series-of-data-paintings-by-refik-anadol-studio/) by Refik Anadol
+  - [Giorgia Lupi](https://giorgialupi.com/data-portraits-at-ted2017)
+  - [Stefanie Posavec](http://www.stefanieposavec.com/)
+  - [Valentina D'Efilippo](http://www.valentinadefilippo.co.uk/)
+  - [Nadieh Bremer](https://www.visualcinnamon.com/)
+- Simple JSON Datasets
+  - [awesome-json-datasets](https://github.com/jdorfman/awesome-json-datasets)
+  - [corpora](https://github.com/dariusk/corpora)
   - [color-names](https://github.com/meodai/color-names)
   - [all-the-cities](https://www.npmjs.com/package/all-the-cities)
   - [supervillains](https://www.npmjs.com/package/supervillains) and [superheroes](https://www.npmjs.com/package/superheroes)
   - [nice-color-palettes](https://www.npmjs.com/package/nice-color-palettes)
-- Data Artworks
-  - [Melting Memories](https://vimeo.com/264369157) and [Wind of Boston](https://visuall.net/2017/03/22/wind-of-boston-series-of-data-paintings-by-refik-anadol-studio/) by Refik Anadol
-  - [WiFi Impressionist](https://www.creativeapplications.net/environment/wifi-impressionist-city-as-an-electromagnetic-landscape/) and [Hertzian Landscapes](https://www.creativeapplications.net/js/hertzian-landscapes-the-interactive-space-of-a-radio-spectrum/) by Richard Vijgen
-  - [Every NYT Front Page Since 1852](https://www.thisiscolossal.com/2017/02/the-rise-of-the-image-every-ny-times-front-page-since-1852-in-under-a-minute/)
-  - NORAA
-  - [The Sleep Blanket](https://www.thisiscolossal.com/2019/07/baby-data-blanket/)
-  - [Georgia Lupi](http://giorgialupi.com/)
-  - [Stefanie Posavec](http://www.stefanieposavec.com/)
 - Some Dataset Ideas
-  - [Corpora](https://github.com/dariusk/corpora)
+  - [Google Trends](https://trends.google.com/trends/)
   - [Library of Congress](https://www.loc.gov/pictures/)
   - [NYPL Digital Collections](https://digitalcollections.nypl.org)
+
+## Exercise
+
+- Tarot Card Bot
+  - Write a Node.js Program that Picks a random Tarot Card from a deck and prints your fortune
+  - Data: [tarot_interpretations.json](https://github.com/dariusk/corpora/raw/master/data/divination/tarot_interpretations.json) (Right Click > Save As)
+  - Solution: [./src/tarot](./src/tarot)
 
 ## Assignment
 

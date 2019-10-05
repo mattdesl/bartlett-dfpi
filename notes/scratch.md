@@ -137,3 +137,35 @@ HARDWARE stuff
   - [public-apis](https://github.com/public-apis/public-apis)
   - [Data is Plural (Newsletter)](https://tinyletter.com/data-is-plural/archive)
   - [/r/opendata](https://www.reddit.com/r/opendata/) and [/r/datasets](https://www.reddit.com/r/datasets/)
+
+
+
+
+  - Laurie Frick - http://dataphys.org/list/sleep-patterns/
+  - DataPhys - http://dataphys.org/list/seismographic-readings/
+  - http://dataphys.org/list/electricity-power-demand/
+  - http://dataphys.org/list/electron-density-contours/
+  - http://dataphys.org/list/sound-sculpture/
+  - https://www.mokafolio.de/works/BlockBills
+  - [WiFi Impressionist](https://www.creativeapplications.net/environment/wifi-impressionist-city-as-an-electromagnetic-landscape/) and [Hertzian Landscapes](https://www.creativeapplications.net/js/hertzian-landscapes-the-interactive-space-of-a-radio-spectrum/) by Richard Vijgen
+  - NORAA
+- Some Dataset Ideas
+  - [Corpora](https://github.com/dariusk/corpora)
+  - [Library of Congress](https://www.loc.gov/pictures/)
+  - [NYPL Digital Collections](https://digitalcollections.nypl.org)
+  - Google Trends
+  - iPhone Pedometer
+  - https://nbremer.github.io/planet-globe/
+  https://github.com/wbkd/awesome-interactive-journalism
+
+https://www.metoffice.gov.uk/research/climate/maps-and-data/historic-station-data
+
+https://dasl.datadescription.com/datafiles/?_sfm_cases=4+59943&sf_paged=2
+
+https://www.causeweb.org/cause/resources/library?field_material_type_tid=104
+
+http://www.statsci.org/data/timeseri.html
+
+http://jse.amstat.org/jse_data_archive.htm
+
+https://www.metoffice.gov.uk/hadobs/hadukp/data/download.html
