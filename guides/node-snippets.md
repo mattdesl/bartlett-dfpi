@@ -1,27 +1,15 @@
 # Node.js and npm Code Snippets
 
-## Requiring a Module
+## Contents
 
-> :bulb: Make sure you have a `package.json` in your folder before installing modules.
+- [Working with JSON](#working-with-json)
+- [Requiring a Module from npm](#requiring-a-module)
+- [Reading a File in Node.js](#reading-a-file-in-nodejs)
+- [Writing to a File in Node.js](#writing-to-a-file-in-nodejs)
+- [Reading JSON Files in Node.js](#reading-json-files-in-nodejs)
+- [Writing JSON Files in Node.js](#writing-json-files-in-nodejs)
 
-First, you'll need to install the module from npm.
-
-For example, [superheroes](https://www.npmjs.com/package/superheroes):
-
-```sh
-npm install superheroes
-```
-
-Then you can require it:
-
-```js
-// Require a module you installed via npm
-const superheroes = require('superheroes');
-
-console.log(superheroes.random());
-```
-
-## Dealing with JSON
+## Working with JSON
 
 ```js
 // You can define JSON objects like so
@@ -44,6 +32,27 @@ const parsed = JSON.parse(text);
 // And then access some property deep in the object
 console.log(parsed.coolObject.name);
 // prints 'bar'
+```
+
+## Requiring a Module from npm
+
+> :bulb: Make sure you have a `package.json` in your folder before installing modules. See the [Node.js](./node-and-npm.md) guide for details.
+
+First, you'll need to install the module from npm.
+
+For example, [superheroes](https://www.npmjs.com/package/superheroes):
+
+```sh
+npm install superheroes
+```
+
+Then you can require it:
+
+```js
+// Require a module you installed via npm
+const superheroes = require('superheroes');
+
+console.log(superheroes.random());
 ```
 
 ## Reading a File in Node.js

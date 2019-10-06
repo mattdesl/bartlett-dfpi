@@ -23,9 +23,12 @@ Then we will learn:
   - [Course Guide](../../guides/terminal.md)
 - Node.js and npm
   - [Course Guide](../../guides/node-and-npm.md)
+  - [Code Snippets](../../guides/node-snippets.md)
 - JSON
   - [Simple JSON Guide](http://montoyamoraga.io/tutorial-json/)
   - [MDN JSON Guide](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
+- CSV
+  - [Course Guide](../../guides/csv.md)
 
 ## References
 
@@ -51,16 +54,18 @@ Then we will learn:
   - [supervillains](https://www.npmjs.com/package/supervillains) and [superheroes](https://www.npmjs.com/package/superheroes)
   - [nice-color-palettes](https://www.npmjs.com/package/nice-color-palettes)
 - Some Dataset Ideas
+  - [Weather Data in NYC 2016](https://www.kaggle.com/mathijs/weather-data-in-new-york-city-2016)
   - [Google Trends](https://trends.google.com/trends/)
   - [Library of Congress](https://www.loc.gov/pictures/)
   - [NYPL Digital Collections](https://digitalcollections.nypl.org)
+  - [Andy Kirk's List of Data Sources](9https://www.visualisingdata.com/2017/02/archiving-collection-places-access-data/)
 
 ## Exercise
 
 - Tarot Card Bot
   - Write a Node.js Program that Picks a random Tarot Card from a deck and prints your fortune
   - Data: [tarot_interpretations.json](https://github.com/dariusk/corpora/raw/master/data/divination/tarot_interpretations.json) (Right Click > Save As)
-  - Solution: [./src/tarot](./src/tarot)
+  - Solution: [./src/tarot/tarot.js](./src/tarot/tarot.js)
 
 ## Assignment
 

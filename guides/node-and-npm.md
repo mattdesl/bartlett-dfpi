@@ -164,11 +164,13 @@ Each module might be used in a slightly different way, typically if you consult 
 There are modules on almost every topic, here's a few cool ones:
 
 - [twitter](https://www.npmjs.com/package/twitter) — Node.js access to the Twitter API
+- [philips-hue](https://www.npmjs.com/package/philips-hue) — Connect with Philips Hue bulbs via Node.js
+- [johnny-five](https://www.npmjs.com/package/johnny-five) — Connect with hardware interfaces, LEDs, robots and more with Node.js
 - [pdfkit](https://www.npmjs.com/package/pdfkit) — Generate PDF files in Node.js
 - [brain.js](https://www.npmjs.com/package/brain.js) — Machine learning in JavaScript
 - [jimp](https://www.npmjs.com/package/jimp) — image manipulation with Node.js
 - [neat-csv](https://www.npmjs.com/package/neat-csv) — parse CSV files with Node.js
-- [franc](https://github.com/wooorm/franc) — detect the language of a given string -->
+- [franc](https://github.com/wooorm/franc) — detect the language of a given string
 
 ## Installing Applications from npm
 
