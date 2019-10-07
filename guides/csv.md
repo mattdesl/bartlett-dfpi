@@ -6,6 +6,7 @@
 - [Gotchas](#gotchas)
 - [Tools](#tools)
 - [Node.js](#nodejs)
+- [Bonus: Fetching JSON](#fetch-json)
 
 ## File Format
 
@@ -109,4 +110,37 @@ const csv = fs.readFileSync(file).toString();
   const json = await neatCsv(csv);
   console.log(json);
 })();
+```
+
+<a name="fetch-json"></a>
+
+## Bonus: Fetching JSON
+
+Say you've converted CSV to JSON, and now you want to use that in your p5 app. You can drag and drop the JSON file into the "Assets" section of your Glitch.com project. Then, you can fetch it from your JavaScript code like so:
+
+```js
+// Declare the data variable
+let data;
+
+// This 'async' part loads the data as JSON
+(async () => {
+  // Fetch data from a URL
+  const resp = await fetch('your-file-name.json');
+
+  // Convert the response into JSON
+  data = await resp.json();
+})();
+```
+
+You'll probably want to add this to your `draw()` function or anywhere you are using the data:
+
+```js
+function draw () {
+  if (!data) {
+    // Data isn't loaded, don't draw anything
+    return;
+  }
+
+  // Data is now loaded, we can draw with it...
+}
 ```

@@ -48,6 +48,7 @@ APIs
 - ColourLovers API - https://www.colourlovers.com/api
 - Sunrise / Sunset Times API - https://sunrise-sunset.org/api
 - RijksMuseum - http://rijksmuseum.github.io/
+- https://medium.com/@vicbergquist/18-fun-apis-for-your-next-project-8008841c7be9
 
 Day 2:
 
@@ -75,6 +76,8 @@ Projects:
 - https://www.creativeapplications.net/js/lost-in-computation-distorted-communication-in-the-digital-landscape/
 - https://www.creativeapplications.net/objects/neurotic-armageddon-indicator-nai-proximity-to-armageddon/
 - 
+
+
 
 Things:
 
@@ -169,3 +172,9 @@ http://www.statsci.org/data/timeseri.html
 http://jse.amstat.org/jse_data_archive.htm
 
 https://www.metoffice.gov.uk/hadobs/hadukp/data/download.html
+
+https://papersignals.withgoogle.com/#
+
+HARDWARE
+
+https://www.creativeapplications.net/objects/bouquet-synaesthetic-olfactory-device-to-perceive-color-through-fragrance/

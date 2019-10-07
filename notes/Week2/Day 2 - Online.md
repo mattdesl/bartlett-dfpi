@@ -1,10 +1,21 @@
 # Week 2 — Day 2 (Online)
 
-Now that we are more comfortable with Terminal, Node.js, npm, and working with JSON data, we can start to create more interesting connections.
+Now that we are more comfortable with Terminal, Node.js, npm, and working with JSON and CSV data, we can start to create more interesting connections.
 
 We will learn about:
 
-- Programmable Web APIs
+- APIs
+  - Fetching data e.g. hourly or daily
+  - Writing data e.g. Twitter bot
+- Creating your own APIs with Servers
+  - Running Node.js in Glitch.com
+  - Creating your own APIs
+    - Random color server
+    - ColourLover API
+  - Idea: Color Namer Device
+  - Multiplayer App
+
+
 - Glitch.com Server Examples
   - "Hello World" Node.js app
   - Fetching Files Node.js app
