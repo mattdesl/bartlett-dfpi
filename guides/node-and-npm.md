@@ -206,6 +206,14 @@ Here's an example `index.html` file you can use:
 
 If you get an `EACCES` error when installing something with `--global`, you can try one of the following ways to fix this:
 
+### (Quick Hack) Use `sudo`
+
+A quick way to fix is with `sudo`, but this is generally not recommended as it can be less secure/safe! :warning:
+
+```sh
+sudo npm install serve --global
+```
+
 ### Reinstall Node.js
 
 Sometimes reinstalling [Node.js](https://nodejs.org/en/) (perhaps a different version than you last tried) will resolve the issue. After installing, quit your terminal and reboot your computer.
