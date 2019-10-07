@@ -27,10 +27,20 @@ We will learn about:
 - [Twin Objects](https://www.creativeapplications.net/objects/twin-objects-devices-for-long-distance-relationships/)
 - [Paper Signals](https://papersignals.withgoogle.com/)
 - [Face Tarde](https://www.creativeapplications.net/c/face-trade-art-vending-machine-that-trades-mugshots-for-free-portraits/)
+- [Basic Stamps](https://www.behance.net/gallery/16917491/Basic-Stamps)
 
 ## Exercise for The Week
 
 We will make a generative flag program using the Node.js module [flag-colors](https://www.npmjs.com/package/flag-colors).
+
+#### Inspirations
+
+Swiss design, op art, hard edge painting, graphic design.
+
+- Auguste Herbin
+- Bridget Riley
+- Ellsworth Kelly
+- Sophie Taeuber-Arp
 
 #### Requirements
 
