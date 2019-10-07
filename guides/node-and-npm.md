@@ -178,21 +178,21 @@ Not only can you install small libraries of code from npm, but you can also use 
 
 To install a CLI application, we use the `--global` flag when installing. You can run this command from any folder, and you don't need a `package.json` file for global applications.
 
-For example, let's install [http-server](https://github.com/zeit/serve) now, which will allow us to develop HTML websites without the internet:
+For example, let's install [serve](https://github.com/zeit/serve) now, which will allow us to develop HTML websites without the internet:
 
 ```sh
-npm install http-server --global
+npm install serve --global
 ```
 
 > :bulb: If you run into EACCESS errors, see the [next section](#eaccess) 
 
-After its installed, we should be able to run `http-server` from the command-line.
+After its installed, we should be able to run `serve` from the command-line. Use a dot `.` as the path, which means "current directory."
 
 ```sh
-http-server
+serve .
 ```
 
-Now try opening [http://localhost:8080/](http://localhost:8080/) in your browser to see the result. If you add an `index.html` in your folder and then reload the browser, you can start to develop a simple website.
+Now try opening [http://localhost:5000/](http://localhost:5000/) (or whatever URL is printed) in your browser to see the result. If you add an `index.html` in your folder and then reload the browser, you can start to develop a simple website.
 
 Here's an example `index.html` file you can use:
 
@@ -214,6 +214,8 @@ A quick way to fix is with `sudo`, but this is generally not recommended as it c
 sudo npm install serve --global
 ```
 
+Follow the steps below for a more secure approach to globally installing CLI tools from npm.
+
 ### Reinstall Node.js
 
 Sometimes reinstalling [Node.js](https://nodejs.org/en/) (perhaps a different version than you last tried) will resolve the issue. After installing, quit your terminal and reboot your computer.
@@ -221,7 +223,7 @@ Sometimes reinstalling [Node.js](https://nodejs.org/en/) (perhaps a different ve
 Then try installing a global module again like so:
 
 ```sh
-npm install http-server --global
+npm install serve --global
 ```
 
 ### (macOS Only) Change Default Directory
@@ -279,7 +281,7 @@ source ~/.profile
 And we should be able to re-install npm modules globally:
 
 ```sh
-npm install http-server --global
+npm install serve --global
 ```
 
 ### Node Version Manager
@@ -310,7 +312,7 @@ nvm alias default stable
 Now try re-installing your CLI app globally from npm:
 
 ```sh
-npm install http-server --global
+npm install serve --global
 ```
 
 ## Code Snippets

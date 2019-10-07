@@ -11,6 +11,10 @@ Then we will learn:
 - Working with public JSON data
 - Taking your p5.js Projects Offline with `http-server`
 
+## Slides
+
+[Link to slides PDF](https://drive.google.com/file/d/1AcDsgPnbdmo-lP9TkY_gZwx0_9hHgISc/view?usp=sharing)
+
 ## Guides
 
 - JavaScript
@@ -111,6 +115,6 @@ I'm assigning the final assignment now, I want you to discuss it tonight and tom
 
   - **Data:** for example using data from an online or offline source
 
-  - **Sensors:** for example using a Raspberry Pi and Enviro pHAT to drive the installation
+  - **Sensors:** for example using a [Raspberry Pi and Enviro pHAT](https://shop.pimoroni.com/products/enviro-phat) to drive the installation
 
 Projects are either solo, or in a group of max 2 people. For projects using **Data** or **Sensors** it may make sense to work in a team to split effort between frontend (visuals) and backend (networking/hardware).

@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "Matt DesLauriers <dave.des@gmail.com>",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "country-code-lookup": "0.0.14",
+    "flag-colors": "^0.1.0"
+  }
 }
