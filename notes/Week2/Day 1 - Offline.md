@@ -33,8 +33,8 @@ Then we will learn:
 Right click and "Save Link As" to download the JSON and CSV files.
 
 - [Tarot Card Interpretations](https://github.com/dariusk/corpora/raw/master/data/divination/tarot_interpretations.json) – JSON
-- [London Daily Rainfall (2007 – 2019)](./src/weather-london/daily-rainfall.json) – JSON (see [here](https://data.london.gov.uk/dataset/daily-areal-rainfall) for more info about the data)
-- [NYC Daily Weather (2016)](./src/weather-nyc/weather_data_nyc_centralpark_2016.csv) – CSV (see [here](https://www.kaggle.com/mathijs/weather-data-in-new-york-city-2016) for more info about the data)
+- [London Daily Rainfall (2007 – 2019)](https://raw.githubusercontent.com/mattdesl/bartlett-dfpi/master/notes/Week2/src/weather-london/daily-rainfall.json) – JSON (see [here](https://data.london.gov.uk/dataset/daily-areal-rainfall) for more info about the data)
+- [NYC Daily Weather (2016)](https://raw.githubusercontent.com/mattdesl/bartlett-dfpi/master/notes/Week2/src/weather-nyc/weather_data_nyc_centralpark_2016.csv) – CSV (see [here](https://www.kaggle.com/mathijs/weather-data-in-new-york-city-2016) for more info about the data)
 
 ## References
 
