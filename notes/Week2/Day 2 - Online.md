@@ -29,7 +29,15 @@ We will learn about:
 - [Face Tarde](https://www.creativeapplications.net/c/face-trade-art-vending-machine-that-trades-mugshots-for-free-portraits/)
 - [Basic Stamps](https://www.behance.net/gallery/16917491/Basic-Stamps)
 
-## Exercise for The Week
+## 1. Email Me Your Final Project Idea
+
+Email me at [info@mattdesl.studio](mailto:info@mattdesl.studio) with the rough idea of your final project.
+
+- What is the input?
+- What is the output?
+- What are the names of your group members?
+
+## 2. Exercise for The Week (Due Monday Oct 15)
 
 We will make a generative flag program using the Node.js module [flag-colors](https://www.npmjs.com/package/flag-colors).
 
