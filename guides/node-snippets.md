@@ -11,6 +11,7 @@
 - [Creating a Basic Server](#creating-a-basic-server)
 - [Creating an HTML Server](#creating-an-html-server)
 - [Creating a WebSocket Server](#creating-a-websocket-server)
+- [Fetching from a Public API](#fetching-from-a-public-api)
 
 ## Working with JSON
 
@@ -277,4 +278,21 @@ server.listen(port, () => {
     <script src="sketch.js"></script>
   </head>
   ...
+```
+
+## Fetching from a Public API
+
+```js
+const express = require('express');
+const fetch = require('cross-fetch');
+const app = express();
+
+app.get('/', async (req, res) => {
+  const url = 'http://www.colourlovers.com/api/colors/random&format=json';
+  const resp = await fetch(url);
+  const json = await resp.json();
+  res.send(`<body style="background: #${json[0].hex}"></body>`);
+});
+
+app.listen(3000);
 ```
