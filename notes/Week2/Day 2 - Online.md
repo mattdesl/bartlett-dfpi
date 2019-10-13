@@ -19,6 +19,10 @@ We will learn about:
 
 - https://dfpi-node-demos.glitch.me
 
+## Slides
+
+[Link to Slides PDF](https://drive.google.com/file/d/1DebTj1fl-On3kAjT2WVGC2vJcoWTvxWC/view?usp=sharing)
+
 ## References
 
 - [Times Haiku](https://haiku.nytimes.com/)
