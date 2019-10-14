@@ -9,11 +9,14 @@ In the afternoon we will learn:
 - What is sound?
 - Sine waves
 - Playing synths with Tone.js
+- Adding `Tone.js` and other libraries to `index.html`
 - Basic filters: reverb, chorus, delay
+- Bonus: Drawing paths with `beginShape()`, `vertex()` and `endShape()`
 
 ## Demos
 
 - https://dfpi-audio-demos.glitch.me
+- [Bonus: Shape Demo](https://glitch.com/edit/#!/dfpi-example-paths?path=sketch.js)
 
 ## Guides
 
