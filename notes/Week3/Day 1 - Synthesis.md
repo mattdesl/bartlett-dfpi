@@ -25,6 +25,12 @@ In the afternoon we will learn:
 - [Music Theory Primer](https://www.lightnote.co/)
 - [Learning Music](https://learningmusic.ableton.com/make-beats/make-beats.html)
 
+## References
+
+- [Ryoji Ikeda: Transfinite (2011)](https://vimeo.com/63652019)
+- [NONOTAK](https://vimeo.com/79732146)
+- [SONAR](https://vimeo.com/5324878)
+
 ## Quick Notes
 
 - Notes on [audio timing](https://github.com/Tonejs/Tone.js/wiki/Time).
