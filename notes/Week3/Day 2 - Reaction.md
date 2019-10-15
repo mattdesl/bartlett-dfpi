@@ -122,3 +122,7 @@ Keep it Simple — and maybe use this as practice toward the visuals for your fi
 - Try adding effects on the audio source, for example a delay or echo when you let go of the mouse
 - Try making things move instead of always being static
 - Try experimenting with `noise` to create random sizes
+
+### My Example
+
+[Here](https://glitch.com/edit/#!/dfpi-audio-homework) is what I came up with.
