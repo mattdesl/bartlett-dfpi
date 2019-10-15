@@ -15,6 +15,10 @@ Today we will learn:
 
 - https://dfpi-audio-demos.glitch.me
 
+## Tools
+
+- [https://spectrum.surge.sh/](https://spectrum.surge.sh/)
+
 ## Guides
 
 - [Waveforms](https://pudding.cool/2018/02/waveforms/)
