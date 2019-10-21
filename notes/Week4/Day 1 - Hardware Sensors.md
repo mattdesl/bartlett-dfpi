@@ -7,3 +7,8 @@ Then we will cover Hardware sensors with the enviro pHAT.
 There is a separate repo for the day's work:
 
 - [mattdesl/bartlett-dfpi-rpi](https://github.com/mattdesl/bartlett-dfpi-rpi)
+
+
+# Demos
+
+- https://dfpi-3d-demos.glitch.me

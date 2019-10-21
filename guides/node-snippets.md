@@ -164,6 +164,7 @@ Now you can write a `server.js` script:
 
 ```js
 // require modules
+const http = require('http');
 const express = require("express");
 
 // create an application
