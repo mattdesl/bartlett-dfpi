@@ -14,6 +14,8 @@ Today we will:
 - Troubleshooting / Q&A
 - Chat about office hours
 
+- Thursday 24th @ 2PM-3PM
+
 # References
 
 - [clmtrackr](https://github.com/auduno/clmtrackr) (Face Tracker)
@@ -25,7 +27,7 @@ Today we will:
 
 # Demos
 
-- [dfpi-face-track](https://glitch.com/edit/#!/dfpi-body-track?path=sketch.js)
+- [dfpi-face-track](https://glitch.com/edit/#!/dfpi-face-track?path=sketch.js)
 - [dfpi-body-track](https://glitch.com/edit/#!/dfpi-body-track?path=sketch.js)
 
 # Going Offline
