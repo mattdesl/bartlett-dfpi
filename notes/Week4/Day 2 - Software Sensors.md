@@ -30,6 +30,10 @@ Today we will:
 - [dfpi-face-track](https://glitch.com/edit/#!/dfpi-face-track?path=sketch.js)
 - [dfpi-body-track](https://glitch.com/edit/#!/dfpi-body-track?path=sketch.js)
 
+# MP4 Template
+
+https://github.com/mattdesl/bartlett-dfpi-mp4
+
 # Going Offline
 
 ## Tools
